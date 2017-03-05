@@ -1,0 +1,18 @@
+C:\Users\Parry Kwong\Desktop\FlappyBird\FlappyBird\bin\Debug\FlappyCube.exe.config
+C:\Users\Parry Kwong\Desktop\FlappyBird\FlappyBird\bin\Debug\FlappyCube.exe
+C:\Users\Parry Kwong\Desktop\FlappyBird\FlappyBird\bin\Debug\FlappyCube.pdb
+C:\Users\Parry Kwong\Desktop\FlappyBird\FlappyBird\obj\Debug\FlappyCube.csprojResolveAssemblyReference.cache
+C:\Users\Parry Kwong\Desktop\FlappyBird\FlappyBird\obj\Debug\FlappyCube.Form1.resources
+C:\Users\Parry Kwong\Desktop\FlappyBird\FlappyBird\obj\Debug\FlappyCube.Properties.Resources.resources
+C:\Users\Parry Kwong\Desktop\FlappyBird\FlappyBird\obj\Debug\FlappyCube.csproj.GenerateResource.Cache
+C:\Users\Parry Kwong\Desktop\FlappyBird\FlappyBird\obj\Debug\FlappyCube.exe
+C:\Users\Parry Kwong\Desktop\FlappyBird\FlappyBird\obj\Debug\FlappyCube.pdb
+C:\Users\Parry Kwong\Documents\Visual Studio 2015\Projects\FlappyCube\FlappyCube\bin\Debug\FlappyCube.exe.config
+C:\Users\Parry Kwong\Documents\Visual Studio 2015\Projects\FlappyCube\FlappyCube\obj\Debug\FlappyCube.exe
+C:\Users\Parry Kwong\Documents\Visual Studio 2015\Projects\FlappyCube\FlappyCube\obj\Debug\FlappyCube.pdb
+C:\Users\Parry Kwong\Documents\Visual Studio 2015\Projects\FlappyCube\FlappyCube\bin\Debug\FlappyCube.exe
+C:\Users\Parry Kwong\Documents\Visual Studio 2015\Projects\FlappyCube\FlappyCube\bin\Debug\FlappyCube.pdb
+C:\Users\Parry Kwong\Documents\Visual Studio 2015\Projects\FlappyCube\FlappyCube\obj\Debug\FlappyCube.csprojResolveAssemblyReference.cache
+C:\Users\Parry Kwong\Documents\Visual Studio 2015\Projects\FlappyCube\FlappyCube\obj\Debug\FlappyCube.Form1.resources
+C:\Users\Parry Kwong\Documents\Visual Studio 2015\Projects\FlappyCube\FlappyCube\obj\Debug\FlappyCube.Properties.Resources.resources
+C:\Users\Parry Kwong\Documents\Visual Studio 2015\Projects\FlappyCube\FlappyCube\obj\Debug\FlappyCube.csproj.GenerateResource.Cache
